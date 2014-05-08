@@ -1,1 +1,1 @@
-diplo-vagrant,https://github.com/Prophidys/diplo-plugin-vagrant.git
+vagrant;https://github.com/Prophidys/diplo-plugin-vagrant.git;Manage Vagrant stuff on a workspace
